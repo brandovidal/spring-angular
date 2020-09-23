@@ -1,0 +1,16 @@
+INSERT INTO clientes (name, lastname, email, create_at) VALUES('Rodrigo', 'Valencia', 'rvalencia@correo.com', '2018-10-02');
+INSERT INTO clientes (name, lastname, email, create_at) VALUES('Esteban', 'Noruega', 'enoruega@correo.com', '2019-04-14');
+INSERT INTO clientes (name, lastname, email, create_at) VALUES('Maria', 'Bustamante', 'mbusta@correo.com', '2020-07-24');
+INSERT INTO clientes (name, lastname, email, create_at) VALUES('Sandra', 'Cisneros', 'scisneros@correo.com', '2015-03-08');
+INSERT INTO clientes (name, lastname, email, create_at) VALUES('Fulano', 'Fulher', 'ffulher@correo.com', '2016-09-11');
+INSERT INTO clientes (name, lastname, email, create_at) VALUES('Ximena', 'Rojas', 'xrojas@correo.com', '2010-12-30');
+INSERT INTO clientes (name, lastname, email, create_at) VALUES('Raul', 'Estrada', 'restrada@correo.com', '2018-10-02');
+INSERT INTO clientes (name, lastname, email, create_at) VALUES('Luis', 'Gignac', 'lgignac@correo.com', '2011-11-19');
+INSERT INTO clientes (name, lastname, email, create_at) VALUES('Rodrigo', 'Valencia', 'rvalencia@correo.com', '2018-10-02');
+INSERT INTO clientes (name, lastname, email, create_at) VALUES('Esteban', 'Noruega', 'enoruega@correo.com', '2019-04-14');
+INSERT INTO clientes (name, lastname, email, create_at) VALUES('Maria', 'Bustamante', 'mbusta@correo.com', '2020-07-24');
+INSERT INTO clientes (name, lastname, email, create_at) VALUES('Sandra', 'Cisneros', 'scisneros@correo.com', '2015-03-08');
+INSERT INTO clientes (name, lastname, email, create_at) VALUES('Fulano', 'Fulher', 'ffulher@correo.com', '2016-09-11');
+INSERT INTO clientes (name, lastname, email, create_at) VALUES('Ximena', 'Rojas', 'xrojas@correo.com', '2010-12-30');
+INSERT INTO clientes (name, lastname, email, create_at) VALUES('Raul', 'Estrada', 'restrada@correo.com', '2018-10-02');
+INSERT INTO clientes (name, lastname, email, create_at) VALUES('Luis', 'Gignac', 'lgignac@correo.com', '2011-11-19');
